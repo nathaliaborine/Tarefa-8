@@ -12,6 +12,7 @@
     </form>
     <p>  
     <?php
+    //novo comentário só para testar commit na tarefa 7
         if(isset($_GET['altura']) && isset($_GET['peso'])) {        
             $altura = $_GET['altura'];        
             $peso = $_GET['peso'];
